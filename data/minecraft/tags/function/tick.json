@@ -1,6 +1,8 @@
 {
-	"values":[
-		"kohara:main",
-		"stellarity:main"
-	]
+    "values": [
+        "bannerbedsheets:tick"
+    ]
+
+    
+
 }
